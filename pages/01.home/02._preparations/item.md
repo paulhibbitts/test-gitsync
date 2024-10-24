@@ -3,7 +3,7 @@ title: 'Preparations'
 published: true
 ---
 
-## Looking Ahead to Next Week
+## Looking Ahead to the Next Week
 
 ### Week 5 Required Reading
 [embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
