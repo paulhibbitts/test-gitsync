@@ -1,9 +1,12 @@
 ---
-title: 'Preparations'
+title: Preparations
 published: true
+hide_page_title: false
+show_sidebar: true
+hide_git_sync_repo_link: false
 ---
 
-## Looking Ahead to the Next Week
+## Looking Ahead to Next Week
 
 ### Week 5 Required Reading
 [embedly]http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/[/embedly]
